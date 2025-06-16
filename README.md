@@ -20,5 +20,12 @@
 <p><a target="_blank" href="https://twitter.com/https://x.com/SatyamRathireso" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/satyam-rathi/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <img src="https://raw.githubusercontent.com/satyamrathirar/satyamrathirar/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamrathirar/satyamrathirar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamrathirar/satyamrathirar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/satyamrathirar/satyamrathirar/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ###
