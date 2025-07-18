@@ -24,13 +24,13 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,dart" height="32"/>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,dart" height="32"/>
       <ul>
         <li>🧑‍💻 This is what I speak</li>
       </ul>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv,tensorflow,django" height="32"/>
+      <img src="https://skillicons.dev/icons?i=opencv,tensorflow,django,firebase" height="32"/>
       <ul>
         <li>⚙️ My Frameworks</li>
       </ul>
