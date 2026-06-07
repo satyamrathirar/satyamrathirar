@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Currently developing Deep Learning and GenAI products meanwhile tweaking my phone with cool Custom Roms and Modules or probably sleeping</h3>
+<h3 align="center">Building and automating cloud infrastructure by day. Writing Python backends, refining frontends, and endlessly tweaking my PC for the 100th time. Sometimes I even sleep.</h3>
 
 <div align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrathirar&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/> -->
