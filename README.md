@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">Building and automating cloud infrastructure by day. Writing Python backends, refining frontends, and endlessly tweaking my PC for the 100th time. Sometimes I even sleep.</h3>
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
