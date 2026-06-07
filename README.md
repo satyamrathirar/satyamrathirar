@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">Building and automating cloud infrastructure by day. Writing Python backends, refining frontends, and endlessly tweaking my PC for the 100th time. Sometimes I even sleep.</h3>
 
-<div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrathirar&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/> -->
-  
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamrathirar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamrathirar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
----
-
-<div align="center">
-
 <table>
   <tr>
     <td align="center">
